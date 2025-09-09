@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/icons">
+    <file>app_icon.png</file>
+    <file>up.svg</file>
+    <file>down.svg</file>
+</qresource>
+</RCC>
