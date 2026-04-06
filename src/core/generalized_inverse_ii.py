@@ -6,7 +6,7 @@ from ..utils.cleaning import clean_matrix
 # region Summary
 """
 THEORY (MATHEMATICS) PAPER
-Title: Decomposition Methods For Determining Complex One-Parameter Generalized Inverse Moore-Penrose Matrices (II)
+Title: Decomposition Methods for Determining Complex One-Parameter Generalized Inverse Moore-Penrose Matrices (II)
 Author(s): S.H. Simonyan, M.G. Chilingaryan, H.S. Abgaryan
 Journal: Proceedings of NAS RA and NPUA: Technical Sciences Series
 DOI: https://doi.org/10.53297/0002306X-2023.v76.4-514
@@ -14,7 +14,7 @@ Parameters: 2023, № 4, pages 514-524
 Publication date: 05/2024
 
 IMPLEMENTATION (CODE) PAPER
-Title: Software Implementation Of Decomposition Methods For Determining Complex One-Parameter Generalized Inverse Moore-Penrose Matrices (II)
+Title: Software Implementation of Decomposition Methods for Determining Complex One-Parameter Generalized Inverse Moore-Penrose Matrices (II)
 Author(s): S.H. Simonyan, A.V. Melikyan, H.S. Abgaryan
 Journal: Proceedings of NPUA: Information Technologies, Electronics, Radio Engineering
 DOI: https://doi.org/10.53297/18293336-2024.2-24
